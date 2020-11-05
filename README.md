@@ -16,3 +16,5 @@ Moreover, divs that will be styled the same way to are given the same name.
 Media Query is added to the styling to make the wab page fully responsive to different screen size. In divices that have max-widith: 800px; the background image shrink to half of its original size, the section that is the main and aside contents aalign in a column. At max-width: 675; the head topic and the nave align in column and center; and the topic and paragragh of the main align bellow the img.
 
 A reset code(`reset.css`) is added, this clear any existing styling to fit any computer machines follower by the `style.css`.
+
+Url: https://bbeyenene.github.io/code-refactor/
